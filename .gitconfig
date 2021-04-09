@@ -1,0 +1,5 @@
+[user]
+	name = Manu
+	email = xyz.rtg@x.com
+[merge]
+	tool = kdiff3
